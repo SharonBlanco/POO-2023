@@ -26,4 +26,4 @@ Es un juego de trivia con interfaz gráfica donde uno o varios jugadores respond
 
 ## Cómo ejecutarlo
 
-Abrir el proyecto en NetBeans y correr:
+Abrir el proyecto en NetBeans y correr la clase triviaQuirk, asismismo las direcciones de las imágenes estan configuradas para linux, si se quiere correr en otro OS se deben modificar
